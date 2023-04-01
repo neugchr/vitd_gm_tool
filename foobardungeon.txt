@@ -1,0 +1,2133 @@
+Fledermaus:
+
+
+
+
+Frosch:
+
+
+
+
+
+
+unnamed dungeon at position: 0 / 0
+with 19 floors
+################################################
+Floor depth: 1
+
+################################################
+AOA
+###
+DPO
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 1
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 1
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 1
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 1
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+Spoiled Pool - Deep puddles of foul-smelling water.
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 1
+Dormitory - Slabs of oblong stone lie in perfect rows like mortuary tables. The air is still, breathing seems difficult.
+This place has not earned its name for just looks. Travelers who rest upon the slabs fall into a deep, unbreakable sleep. They remain unchanged in a form of stasis until they are awoken by an outside source.
+Feature:
+Map - Scratched and carved with ragged haste. You can see what the next 2 rooms will be.
+Encounters:
+['loadstone broker']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 1
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Hidden Treasure - Buried among the pile of dust and dried bone at the bottom is something of value. (roll on the treasure table pg. 21)
+Weigh No More
+A stone crescent, weightless and azure. As long as it is held in hand, the wielder is weightless.
+equipment slots: 1
+type: artifact
+
+Feature:
+Stairs Down - Unsteady geometric protrusions lead down.
++1 Depth
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 1
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Obelisk - towering and foreboding, a single obelisk rests in the center of the plaza. Seen as an object of worship, some have left offerings behind. 12 coins and 4 random tools
+Feature:
+Map - Scratched and carved with ragged haste. You can see what the next 3 rooms will be.
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 1
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+False whispers - The acoustics are strange here. Whispers are heard from all angles...
+Feature:
+Shaft - A small vertical descent into the dark.
++1 Depth
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 1
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Corpse Pile - The crumbling remains of previous victims. There are 1d10 random tools if you dig them out.
+Spyglass
+A tool for magnifying and observing things far away. Consists of lenses housed within a cylinder usually made from metal.
+equipment slots: 1
+
+mirror
+A reflective surface, simple variants are made from polished copper sheets. More expensive ones are polished silver covered by glass.
+equipment slots: 1
+
+crowbar
+A tool used for prying things open. It is also a passable improvised weapon.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+soapstone
+A lump of soapstone. It is popular amongst artists and craftsmen due to the ease with which it can be carved.
+equipment slots: 1
+
+sack
+A sack. Can be impregnated with oil or beeswax to provide (some) protection from water.
+equipment slots: 1
+
+Feature:
+Stash of Loot - Tucked away by someone for later use. 4 rations.
+bow
+A ranged weapon usually crafted from wood
+equipment slots: 2
+damage: 1d6
+range: 20
+
+torch
+Provides bright illumination in a 10 m radius and dim illumination in a 20 m radius. Burns for 1 hour.
+equipment slots: 1
+
+Encounters:
+['loadstone broker']
+################################################
+Floor depth: 2
+
+################################################
+###
+PPD
+CCD
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 2
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 2
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 2
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 2
+Planetarium - ANIMALS - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 2
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Spoiled Pool - Deep puddles of foul-smelling water.
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 2
+Planetarium - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+Stairs Down - Unsteady geometric protrusions lead down.
++1 Depth
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 2
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Crevasse - A cracked scar runs the length of the room.+2 Depth
+Encounters:
+['loadstone broker']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 2
+Dormitory - Slabs of oblong stone lie in perfect rows like mortuary tables. The air is still, breathing seems difficult.
+This place has not earned its name for just looks. Travelers who rest upon the slabs fall into a deep, unbreakable sleep. They remain unchanged in a form of stasis until they are awoken by an outside source.
+Feature:
+Stagnant Pool - A basin of clear, tasteless water. One week's worth.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 2
+Dump - Channels from the walls and ceiling rhythmically dump mounds of detritus into the recessed floor of this room. Broken architecture, soiled water, graveled sand, it all ends in the floor of this room.
+Many things find their way into this great dump, some are even useful.
+For every hour spent searching the mounds of garbage in this room there is a 3-in-6 chance of finding something useful:
+1-3: nothing
+4: A random tool
+5: 1d6x10 lodestone.
+6: 1d3 unspoiled rations.
+However, there is also a 3-in-6
+chance of suffering harm:
+1-3: nothing
+4: Cuts and bruises, 1d6 damage.
+5: A serious injury, 1 exhaustion.
+6: A hidden enemy, roll encounter.
+Feature:
+Devastation - Broken, collapsed and crumbling. This room takes twice as long to cross.
+Encounters:
+['nothing']
+################################################
+Floor depth: 3
+
+################################################
+###
+PCO
+TAT
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 3
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 3
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 3
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 3
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Obelisk - towering and foreboding, a single obelisk rests in the center of the plaza. Seen as an object of worship, some have left offerings behind. 11 coins and 5 random tools
+Feature:
+Stairs Down - Unsteady geometric protrusions lead down.
++1 Depth
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 3
+Tower - A vertical chimney travels up to frightful heights, the ceiling of which is beyond sight. Echoes seem to linger in the dark space far above. This room leads to the surface if it appears at a Depth greater than 1, otherwise it leads to nowhere except a ceiling hundreds of feet up.There is a 2-in-6 chance the tower has something akin to stairs, otherwise it must be scaled with some difficulty.
+The once smooth surface of the tower has been eroded by time. Enabeling explorers to climb it with some difficulty.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['loadstone broker']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 3
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Stagnant Pool - A basin of clear, tasteless water. One week's worth.
+Encounters:
+[lost traveler
+A lost traveler. Needs food and shelter. Helpful if assisted.
+depth: 3
+characters: [traveler
+A traveler through the vast. 2/6 chance to fight to the death otherwise will retreat at half health.
+level: 3
+hit dice: 3d8
+hit points: 11
+damage: 1d6-2
+attack: 15
+natural armour: none
+defense: 11
+strength: 1
+dexterity: -3
+constitution: -2
+intelligence: 2
+wisdom: -1
+charisma: 1
+equipment slots: 5
+ability: none
+
+armour: chain mail
+a shirt made from chain mail, worn over padded armour for increased protection
+equipment slots: 3
+armour: 2d6|5+
+
+]
+loot: [Dreamless
+A bead that seems to swirl with colour. You nolonger need to sleep, your appearance grows haggard with time.
+equipment slots: 1
+type: artifact
+]
+]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 3
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['nothing']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 3
+Ossuary - A long and winding tunnel with smooth cracked walls is peppered with small hand-sized holes. The holes burrow deep and seem to go on forever. The holes here are not empty. Filled with curious trinkets as well as curious dangers. Roll 1d6 anytime a Traveler searches a hole.
+You Find...
+Lodestone - A perfect sphere.
+Feature:
+Stairs Down - Unsteady geometric protrusions lead down.
++1 Depth
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 3
+Temple - A gateway leads into a lengthy room with a vaulted ceiling and terminates into a sanctum. The sanctum ceiling spirals up into the dark, defying your eyes.
+This place has an odd effect on the minds of pious travelers. Drawn like moths to the flame to worship this space.
+Throne - A singular pedestal sits upon a wide and regal base. Akin to some seat for a massive being, an object of importance has been left upon it. (Roll on the treasure table) 
+Torch Stone
+A luminescent cylinder that is warm to the touch. Glows like a lantern when fed blood, 1 HP for 1 hour of light.
+equipment slots: 1
+type: artifact
+
+Feature:
+Warning - Cryptic and foreboding, scratched hastily into a surface.
+Encounters:
+[lost traveler
+A lost traveler. Needs food and shelter. Helpful if assisted.
+depth: 3
+characters: [traveler
+A traveler through the vast. 2/6 chance to fight to the death otherwise will retreat at half health.
+level: 3
+hit dice: 3d8
+hit points: 15
+damage: 1d6-2
+attack: 15
+natural armour: none
+defense: 14
+strength: 1
+dexterity: 0
+constitution: 0
+intelligence: 1
+wisdom: 1
+charisma: 0
+equipment slots: 7
+ability: none
+armour: chain mail
+a shirt made from chain mail, worn over padded armour for increased protection
+equipment slots: 3
+armour: 2d6|5+
+
+weapon: dagger
+a small blade usually carried as a sidearm
+equipment slots: 1
+damage: 1d6-1
+
+offhand: dagger
+a small blade usually carried as a sidearm
+equipment slots: 1
+damage: 1d6-1
+
+]
+loot: []
+]
+################################################
+Floor depth: 4
+
+################################################
+PCV
+###
+ODG
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 4
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 4
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 4
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 4
+Planetarium - PLACES - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 3 rations.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 4
+Ossuary - A long and winding tunnel with smooth cracked walls is peppered with small hand-sized holes. The holes burrow deep and seem to go on forever. The holes here are not empty. Filled with curious trinkets as well as curious dangers. Roll 1d6 anytime a Traveler searches a hole.
+You Find...
+Bite - Suffer 1d6 damage.
+Feature:
+Excavation - Someone or something has been digging:
+A lodestone deposit.
+Encounters:
+[lost traveler
+A lost traveler. Needs food and shelter. Helpful if assisted.
+depth: 4
+characters: [traveler
+A traveler through the vast. 2/6 chance to fight to the death otherwise will retreat at half health.
+level: 3
+hit dice: 3d8
+hit points: 12
+damage: 1d6-2
+attack: 15
+natural armour: none
+defense: 14
+strength: 1
+dexterity: 0
+constitution: -1
+intelligence: 0
+wisdom: -2
+charisma: -1
+equipment slots: 6
+ability: none
+armour: chain mail
+a shirt made from chain mail, worn over padded armour for increased protection
+equipment slots: 3
+armour: 2d6|5+
+
+weapon: dagger
+a small blade usually carried as a sidearm
+equipment slots: 1
+damage: 1d6-1
+
+offhand: shield
+shields come in various forms and makes, they are worn on the arm and offer some protection against melee and ranged attacks
+equipment slots: 2
+defense bonus: 2
+
+]
+loot: []
+]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 4
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Crevasse - A cracked scar runs the length of the room.+3 Depth
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 4
+Dump - Channels from the walls and ceiling rhythmically dump mounds of detritus into the recessed floor of this room. Broken architecture, soiled water, graveled sand, it all ends in the floor of this room.
+Many things find their way into this great dump, some are even useful.
+For every hour spent searching the mounds of garbage in this room there is a 3-in-6 chance of finding something useful:
+1-3: nothing
+4: A random tool
+5: 1d6x10 lodestone.
+6: 1d3 unspoiled rations.
+However, there is also a 3-in-6
+chance of suffering harm:
+1-3: nothing
+4: Cuts and bruises, 1d6 damage.
+5: A serious injury, 1 exhaustion.
+6: A hidden enemy, roll encounter.
+Feature:
+Warning - Cryptic and foreboding, scratched hastily into a surface.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 4
+Vault - A short room terminates with an enormous gate of some kind. A wall of rusted iron acts as a featureless and imposing door. A gentle hum can be heard on the other side. There is treasure here, for those forceful or cunning enough to pilfer it. The “door” of rusted iron is as thick as a fist and will be difficult to break into. Those who find a way in will be rewarded with blocks of identical lodestone worth 229coins and 1d3 treasures.
+Alarm Band
+A circlet that seems made of woven bone. Vibrates intesnely when Crawl are near. Worn as a helmet.
+equipment slots: 1
+type: artifact
+
+Incineration
+A single pale flame, utterly colourlessroughly the size of an adults fist. It burns and spreads like any ordinary flame, but can never be extinguished. When all fuel is consumed a flame of the original size remains where the last fuel was consumed.
+equipment slots: 1
+type: artifact
+
+Annihilation
+A heavy staff of chipped and broken obsidian. When somethin is slain by this staff, it is utterly annihilated, stricken from the memory of the world and mortals. Has a 1 in 36 chance of breaking every strike.This is a two-handed weapon.
+equipment slots: 2
+damage: 1d6
+type: artifact
+
+Feature:
+Devastation - Broken, collapsed and crumbling. This room takes twice as long to cross.
+Encounters:
+['1d8 waning lodge initiates']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 4
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Charnel House - Skulls and remains have been carefully stacked on the plinths, names and epitaphs scratched into them. Some are ancient... 
+Feature:
+Stash of Loot - Tucked away by someone for later use. 6 rations.
+hammer
+a tool used for putting nails in things or smashing things, like for example thumbs.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+hammer
+a tool used for putting nails in things or smashing things, like for example thumbs.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+shovel
+An all time favourite of peasants, builders, gravediggers, graverobbers and knights. Used to dig trenches and storm them. Can be used as a decent improvised two handed weapon.
+equipment slots: 1
+attack bonus: 0
+damage: 1d6
+
+iron tongs
+A pair of long iron tongs, there are different makes for different specialised purposes.
+equipment slots: 1
+
+Encounters:
+['1d6 cyclops']
+################################################
+Floor depth: 5
+
+################################################
+AAA
+###
+GDP
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 5
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 5
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 5
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 5
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d8 waning lodge initiates']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 5
+Great Hall - Identical sequoia- sized pillars stand in perfect rows, holding up the ceiling of this titanic room. Rumbling can be heard above as the pillars creak with the impossible weight they bear. Noise travels quickly here, sometimes alerting unwanted attention...
+Feature:
+Stash of Loot - Tucked away by someone for later use. 5 rations.
+bear trap
+a massive pair of jaws used to catch animal - or human - prey. Immobilized until successful Str save. If concealed save against Int to reveal.
+equipment slots: 1
+damage: 2d6
+
+bear trap
+a massive pair of jaws used to catch animal - or human - prey. Immobilized until successful Str save. If concealed save against Int to reveal.
+equipment slots: 1
+damage: 2d6
+
+drill
+A tool used to drill holes.
+equipment slots: 1
+
+mirror
+A reflective surface, simple variants are made from polished copper sheets. More expensive ones are polished silver covered by glass.
+equipment slots: 1
+
+Chisel
+A tool for carving stone. Can be abused as a somewhat less shitty improvised weapon.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+Encounters:
+['1d6 cyclops', 'loadstone broker']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 5
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+Observers - There are 2d6 mortals diligently watching the “stage.” They are enthralled by “the show” and demand silence, growing violent if the Travelers cause a scene.
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 5
+Dump - Channels from the walls and ceiling rhythmically dump mounds of detritus into the recessed floor of this room. Broken architecture, soiled water, graveled sand, it all ends in the floor of this room.
+Many things find their way into this great dump, some are even useful.
+For every hour spent searching the mounds of garbage in this room there is a 3-in-6 chance of finding something useful:
+1-3: nothing
+4: A random tool
+5: 1d6x10 lodestone.
+6: 1d3 unspoiled rations.
+However, there is also a 3-in-6
+chance of suffering harm:
+1-3: nothing
+4: Cuts and bruises, 1d6 damage.
+5: A serious injury, 1 exhaustion.
+6: A hidden enemy, roll encounter.
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 9 rations.
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 5
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+Stash of Loot - Tucked away by someone for later use. 2 rations.
+kettle
+A small kettle used for boiling water. Typical volume of 1/2 to 2 litres
+equipment slots: 1
+
+sword
+An elegant bladed weapon
+equipment slots: 2
+damage: 1d6
+
+chain
+A sturdy chain of iron. 3 m long.
+equipment slots: 1
+
+manacles
+bindings used to restrict the movement of a persons arms and or legs. Often combined with prisoners to impede escape.
+equipment slots: 1
+
+Encounters:
+[lost traveler
+A lost traveler. Needs food and shelter. Helpful if assisted.
+depth: 5
+characters: [traveler
+A traveler through the vast. 2/6 chance to fight to the death otherwise will retreat at half health.
+level: 3
+hit dice: 3d8
+hit points: 14
+damage: 1d6-2
+attack: 11
+natural armour: none
+defense: 15
+strength: -3
+dexterity: 1
+constitution: 0
+intelligence: 0
+wisdom: -1
+charisma: 3
+equipment slots: 3
+ability: none
+armour: chain mail
+a shirt made from chain mail, worn over padded armour for increased protection
+equipment slots: 3
+armour: 2d6|5+
+
+weapon: bow
+A ranged weapon usually crafted from wood
+equipment slots: 2
+damage: 1d6
+range: 20
+
+offhand: dagger
+a small blade usually carried as a sidearm
+equipment slots: 1
+damage: 1d6-1
+
+]
+loot: []
+]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 5
+Planetarium - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 2 rations.
+Encounters:
+['1d6 cyclops']
+################################################
+Floor depth: 6
+
+################################################
+AMO
+AGP
+###
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 6
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 6
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 6
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 6
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+The Thespian - A tall jet-blackfigure stands silently in the center of the “stage.” They speak only when spoken to and answers with elegant, theatrical flourishes of their body.
+They know more about the Vast than anyone else, and are more dangerous than the oldest of the Crawl...
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 6
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+Spoiled Pool - Deep puddles of foul-smelling water.
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 6
+Maze - The walls close tightly here, twisting and turning in uncomfortable directions both vertical and horizontal. The path splits in places, a hellish fractal maze. With no pattern or sensible layout, it is far too easy to get lost in this maze...
+Travelers must roll 3 successful Intelligence checks in a row to make it through this area
+.Failure: 1d6 hours of time have been lost and roll an encounter.
+Feature:
+Spoiled Pool - Deep puddles of foul-smelling water.
+Encounters:
+['1d8 waning lodge initiates']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 6
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Quiet - The air is still here and demands reverence of some form.
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 6 rations.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 6
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Someone Trapped - They cry out weakly to be rescued from the pit. Close to death, they will perish without immediate assistance. They will be a helpful companion if saved.
+Feature:
+Stash of Loot - Tucked away by someone for later use. 2 rations.
+Chisel
+A tool for carving stone. Can be abused as a somewhat less shitty improvised weapon.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+glass bottle
+A bottle of glass. Typical volume of approx. 1 l.
+equipment slots: 1
+
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 6
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Statue Garden - Odd geometric stones crowd this area, making direct travel difficult and unnerving.
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['1d6 cyclops']
+################################################
+Floor depth: 7
+
+################################################
+###
+BPG
+KPK
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 7
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 7
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 7
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 7
+Bathhouse - Deep circularbasins are carved into the floorof this room. Each is filled withwater and sediment includingchunks of stone from thefractured ceiling.
+The filthy water replenisheshere from the countless cracksand fractures after a day. It isdrinkable but only after beingdistilled or sanitized. There is a1-in-20 chance of treasurehidden in the detritus at thebottom of one of the basins.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 7
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+nothing
+Feature:
+Warning - Cryptic and foreboding, scratched hastily into a surface.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 7
+Planetarium - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+Stash of Loot - Tucked away by someone for later use. 4 rations.
+Chest
+A small chest. Usually made from wood. Sadly it has no legs and is not animated. So you'll have to carry it around.
+equipment slots: 2
+
+iron tongs
+A pair of long iron tongs, there are different makes for different specialised purposes.
+equipment slots: 1
+
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 7
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Distressed - It appears as a collapsed sinkhole at first, yet the walls of the pit are strange geometric patterns. It can be climbed, albeit with some difficulty. Depth +1.
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 7
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Charnel House - Skulls and remains have been carefully stacked on the plinths, names and epitaphs scratched into them. Some are ancient... 
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 7
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+nothing
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['Lodestone Prospectors']
+################################################
+Floor depth: 8
+
+################################################
+AOC
+MMA
+###
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 8
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 8
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 8
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 8
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+The Thespian - A tall jet-blackfigure stands silently in the center of the “stage.” They speak only when spoken to and answers with elegant, theatrical flourishes of their body.
+They know more about the Vast than anyone else, and are more dangerous than the oldest of the Crawl...
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 2 rations.
+Encounters:
+['1d8 waning lodge initiates']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 8
+Maze - The walls close tightly here, twisting and turning in uncomfortable directions both vertical and horizontal. The path splits in places, a hellish fractal maze. With no pattern or sensible layout, it is far too easy to get lost in this maze...
+Travelers must roll 3 successful Intelligence checks in a row to make it through this area
+.Failure: 1d6 hours of time have been lost and roll an encounter.
+Feature:
+Ration Stockpile - Enormous, neatly stacked blocks of pemmican, enough to feed 4 persons for 5 months.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 8
+Ossuary - A long and winding tunnel with smooth cracked walls is peppered with small hand-sized holes. The holes burrow deep and seem to go on forever. The holes here are not empty. Filled with curious trinkets as well as curious dangers. Roll 1d6 anytime a Traveler searches a hole.
+You Find...
+Keepsake - Something small from home...
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 8
+Maze - The walls close tightly here, twisting and turning in uncomfortable directions both vertical and horizontal. The path splits in places, a hellish fractal maze. With no pattern or sensible layout, it is far too easy to get lost in this maze...
+Travelers must roll 3 successful Intelligence checks in a row to make it through this area
+.Failure: 1d6 hours of time have been lost and roll an encounter.
+Feature:
+Warning - Cryptic and foreboding, scratched hastily into a surface.
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 8
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Warning - Cryptic and foreboding, scratched hastily into a surface.
+Encounters:
+['Lodestone Prospectors']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 8
+Archive - Row after row of towering structures are arranged like the shelves of some massive library. They stand dozens of feet tall and stretch thrice that in length. The structures here appear imposing, but time has taken their toll and some are close to collapse.
+Carved - The sides of these shelves are patterned with geometric forms like some alien mural, they are quite easy to climb.
+Feature:
+Stash of Loot - Tucked away by someone for later use. 2 rations.
+ladder
+A tool for climbing up smooth surfaces. Typical length of 2-3 metres.
+equipment slots: 2
+
+Pick
+A tool used for prospecting and mining. Enables to harvest Lodestone from Desposits.
+equipment slots: 2
+attack bonus: -1
+damage: 1d6
+
+Encounters:
+['Lodestone Prospectors']
+################################################
+Floor depth: 9
+
+################################################
+###
+ABP
+GKB
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 9
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 9
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 9
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 9
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+The Thespian - A tall jet-blackfigure stands silently in the center of the “stage.” They speak only when spoken to and answers with elegant, theatrical flourishes of their body.
+They know more about the Vast than anyone else, and are more dangerous than the oldest of the Crawl...
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 9
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Charnel House - Skulls and remains have been carefully stacked on the plinths, names and epitaphs scratched into them. Some are ancient... 
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 1 rations.
+Encounters:
+['griffon']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 9
+Bathhouse - Deep circularbasins are carved into the floorof this room. Each is filled withwater and sediment includingchunks of stone from thefractured ceiling.
+The filthy water replenisheshere from the countless cracksand fractures after a day. It isdrinkable but only after beingdistilled or sanitized. There is a1-in-20 chance of treasurehidden in the detritus at thebottom of one of the basins.
+Feature:
+Stash of Loot - Tucked away by someone for later use. 3 rations.
+hammer
+a tool used for putting nails in things or smashing things, like for example thumbs.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+shovel
+An all time favourite of peasants, builders, gravediggers, graverobbers and knights. Used to dig trenches and storm them. Can be used as a decent improvised two handed weapon.
+equipment slots: 1
+attack bonus: 0
+damage: 1d6
+
+metal file
+A piece of hardened roughed metal used to work away at other metals.
+equipment slots: 1
+
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 9
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+nothing
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 3 rations.
+Encounters:
+['1d8 waning lodge initiates']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 9
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Eerily Empty - It is uncannily barren. Voices travel far and echoes return as whispers.
+Feature:
+Vein of Metal - Vast sections of rusted iron or corroded copper. It can be mined and sold as raw lodesone.
+Encounters:
+['1d8 delvers']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 9
+Bathhouse - Deep circularbasins are carved into the floorof this room. Each is filled withwater and sediment includingchunks of stone from thefractured ceiling.
+The filthy water replenisheshere from the countless cracksand fractures after a day. It isdrinkable but only after beingdistilled or sanitized. There is a1-in-20 chance of treasurehidden in the detritus at thebottom of one of the basins.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d3 Medusa']
+################################################
+Floor depth: 10
+
+################################################
+###
+GMD
+POP
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 10
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 10
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 10
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 10
+Great Hall - Identical sequoia- sized pillars stand in perfect rows, holding up the ceiling of this titanic room. Rumbling can be heard above as the pillars creak with the impossible weight they bear. Noise travels quickly here, sometimes alerting unwanted attention...
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['1d6 cyclops', '1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 10
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Eerily Empty - It is uncannily barren. Voices travel far and echoes return as whispers.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 10
+Maze - The walls close tightly here, twisting and turning in uncomfortable directions both vertical and horizontal. The path splits in places, a hellish fractal maze. With no pattern or sensible layout, it is far too easy to get lost in this maze...
+Travelers must roll 3 successful Intelligence checks in a row to make it through this area
+.Failure: 1d6 hours of time have been lost and roll an encounter.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 10
+Ossuary - A long and winding tunnel with smooth cracked walls is peppered with small hand-sized holes. The holes burrow deep and seem to go on forever. The holes here are not empty. Filled with curious trinkets as well as curious dangers. Roll 1d6 anytime a Traveler searches a hole.
+You Find...
+Lodestone - A perfect sphere.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 10
+Dormitory - Slabs of oblong stone lie in perfect rows like mortuary tables. The air is still, breathing seems difficult.
+This place has not earned its name for just looks. Travelers who rest upon the slabs fall into a deep, unbreakable sleep. They remain unchanged in a form of stasis until they are awoken by an outside source.
+Feature:
+Vein of Metal - Vast sections of rusted iron or corroded copper. It can be mined and sold as raw lodesone.
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 10
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Shear - A smooth square pit descends down into the dark. It will require climbing gear to rappel... Depth +3
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Incineration
+A single pale flame, utterly colourlessroughly the size of an adults fist. It burns and spreads like any ordinary flame, but can never be extinguished. When all fuel is consumed a flame of the original size remains where the last fuel was consumed.
+equipment slots: 1
+type: artifact
+
+Encounters:
+['griffon']
+################################################
+Floor depth: 11
+
+################################################
+PAK
+KPT
+###
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 11
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 11
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 11
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 11
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Obelisk - towering and foreboding, a single obelisk rests in the center of the plaza. Seen as an object of worship, some have left offerings behind. 4 coins and 2 random tools
+Feature:
+Vein of Metal - Vast sections of rusted iron or corroded copper. It can be mined and sold as raw lodesone.
+Encounters:
+['griffon']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 11
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+nothing
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 2 rations.
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 11
+Archive - Row after row of towering structures are arranged like the shelves of some massive library. They stand dozens of feet tall and stretch thrice that in length. The structures here appear imposing, but time has taken their toll and some are close to collapse.
+Carved - The sides of these shelves are patterned with geometric forms like some alien mural, they are quite easy to climb.
+Feature:
+Abandoned Camp - Scattered remains and supplies.3 rations.
+kettle
+A small kettle used for boiling water. Typical volume of 1/2 to 2 litres
+equipment slots: 1
+
+Encounters:
+['1d6 cyclops']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 11
+Pyramid - Gargantuan and imposing, a massive multi- faceted pyramid sits like some terrible beast. Closer inspection reveals it is crafted from a singular piece of stone...
+Maddening hum - Every hour spent here requires a Save versus Charm or gain a level of exhaustion.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 11
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+one of the crawl
+Feature:
+Bug Nest - Buzzing diminutive life gathers in the dark. Can be harvested for 4 rations.
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 11
+Tower - A vertical chimney travels up to frightful heights, the ceiling of which is beyond sight. Echoes seem to linger in the dark space far above. This room leads to the surface if it appears at a Depth greater than 1, otherwise it leads to nowhere except a ceiling hundreds of feet up.There is a 2-in-6 chance the tower has something akin to stairs, otherwise it must be scaled with some difficulty.
+The once smooth surface of the tower has been eroded by time. Enabeling explorers to climb it with some difficulty.
+Feature:
+Bone pile - Like gravel across a tail, the floor is littered with countless broken bones.
+Encounters:
+['1d3 Medusa']
+################################################
+Floor depth: 12
+
+################################################
+###
+APO
+OOP
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 12
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 12
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 12
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 12
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+Observers - There are 2d6 mortals diligently watching the “stage.” They are enthralled by “the show” and demand silence, growing violent if the Travelers cause a scene.
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['1d8 delvers']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 12
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Someone Trapped - They cry out weakly to be rescued from the pit. Close to death, they will perish without immediate assistance. They will be a helpful companion if saved.
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 12
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Tiered - Series of stair-like tiers descend into to dark. Descent and ascent is easy. Depth +1.
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['1d6 cutthroats']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 12
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Corpse Pile - The crumbling remains of previous victims. There are 1d10 random tools if you dig them out.
+crowbar
+A tool used for prying things open. It is also a passable improvised weapon.
+equipment slots: 1
+attack bonus: -1
+damage: 1d6-1
+
+Caltrops
+Tetragonal shaped pieces of metal designed to bury into the foot of persons stepping into them. Enough to cover 4 m². Quarter movement speed for 1d3 days. Con save for half penalty. Save dex to avoid when passing area.
+equipment slots: 1
+
+surgeons tools
+Needles for sewing cuts and lacerations, braces for setting bones, spoons to extract projectiles scalpels, pincers and saws for operating and amputating.
+equipment slots: 1
+
+shovel
+An all time favourite of peasants, builders, gravediggers, graverobbers and knights. Used to dig trenches and storm them. Can be used as a decent improvised two handed weapon.
+equipment slots: 1
+attack bonus: 0
+damage: 1d6
+
+glass bottle
+A bottle of glass. Typical volume of approx. 1 l.
+equipment slots: 1
+
+bearings
+Two cirles wit balls or zylinders in between to minimize friction.
+equipment slots: 1
+
+scrap
+An assortment of scrap and junk it could serve you well. As long as you are looking for a doorstopper or paperweight
+equipment slots: 1
+
+iron tongs
+A pair of long iron tongs, there are different makes for different specialised purposes.
+equipment slots: 1
+
+metal file
+A piece of hardened roughed metal used to work away at other metals.
+equipment slots: 1
+
+Feature:
+Abandoned Camp - Scattered remains and supplies.3 rations.
+gambeson
+padded armour made of linen or leather
+equipment slots: 2
+armour: 2d6|6+
+
+firepot
+A clay pot containing an alchemical mixture that ignites when coming in contact with air.
+Save Dexterity or suffer 1d6 damage.  When hit target suffers 1d3 and moves around randomly, panicking until it saves Wisdom.
+equipment slots: 1
+
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 12
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Hidden Treasure - Buried among the pile of dust and dried bone at the bottom is something of value. (roll on the treasure table pg. 21)
+Command
+A tiara-sized ring of glittering bismuth. All who can hear and understand its wielder will follow their commands without question.
+equipment slots: 1
+type: artifact
+
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 12
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Distressed - It appears as a collapsed sinkhole at first, yet the walls of the pit are strange geometric patterns. It can be climbed, albeit with some difficulty. Depth +1.
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['1d6 cutthroats']
+################################################
+Floor depth: 13
+
+################################################
+###
+GDG
+AGP
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 13
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 13
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 13
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 13
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Quiet - The air is still here and demands reverence of some form.
+Feature:
+Vein of Precious Metal - Streaks and accents of shimmering metal. Can be mined and sold as raw lodestone but twice the value.
+Encounters:
+['griffon']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 13
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+The Thespian - A tall jet-blackfigure stands silently in the center of the “stage.” They speak only when spoken to and answers with elegant, theatrical flourishes of their body.
+They know more about the Vast than anyone else, and are more dangerous than the oldest of the Crawl...
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['griffon']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 13
+Dump - Channels from the walls and ceiling rhythmically dump mounds of detritus into the recessed floor of this room. Broken architecture, soiled water, graveled sand, it all ends in the floor of this room.
+Many things find their way into this great dump, some are even useful.
+For every hour spent searching the mounds of garbage in this room there is a 3-in-6 chance of finding something useful:
+1-3: nothing
+4: A random tool
+5: 1d6x10 lodestone.
+6: 1d3 unspoiled rations.
+However, there is also a 3-in-6
+chance of suffering harm:
+1-3: nothing
+4: Cuts and bruises, 1d6 damage.
+5: A serious injury, 1 exhaustion.
+6: A hidden enemy, roll encounter.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 13
+Great Hall - Identical sequoia- sized pillars stand in perfect rows, holding up the ceiling of this titanic room. Rumbling can be heard above as the pillars creak with the impossible weight they bear. Noise travels quickly here, sometimes alerting unwanted attention...
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['griffon', '1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 13
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Quiet - The air is still here and demands reverence of some form.
+Feature:
+Vein of Metal - Vast sections of rusted iron or corroded copper. It can be mined and sold as raw lodesone.
+Encounters:
+['1d8 delvers']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 13
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Shear - A smooth square pit descends down into the dark. It will require climbing gear to rappel... Depth +1
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['1d3 Medusa']
+################################################
+Floor depth: 14
+
+################################################
+COB
+TGA
+###
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 14
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 14
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 14
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 14
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 14
+Temple - A gateway leads into a lengthy room with a vaulted ceiling and terminates into a sanctum. The sanctum ceiling spirals up into the dark, defying your eyes.
+This place has an odd effect on the minds of pious travelers. Drawn like moths to the flame to worship this space.
+Worshipers - 1d20 penitent and troubled souls gather here in the dark. They feverishly worship with desperate whispers. Attack if disturbed. 
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Unmoved
+A cube of iron with tarnished gold lines. When held in place and struck with force the cube will be immovable until verbally released by the wielder. Approx 1m³.
+equipment slots: 4
+type: artifact
+
+Encounters:
+[Feverish Faithful
+Feverish Faithful - Penitent worshippers pray to whatever entity for forgivness and guidance. They are clearly not in their right minds and will attack when disturbed.
+There is 13 of them.
+depth: 0
+characters: [Faithful
+A troubled soul praying to some otherworldly entity for salvation.
+level: 2
+hit dice: 2d8
+hit points: 9
+damage: 0
+attack: 13
+natural armour: none
+defense: 13
+strength: 0
+dexterity: 0
+constitution: 0
+intelligence: 0
+wisdom: 0
+charisma: 0
+equipment slots: 6
+ability: none
+weapon: bow
+A ranged weapon usually crafted from wood
+equipment slots: 2
+damage: 1d6
+range: 20
+
+offhand: dagger
+a small blade usually carried as a sidearm
+equipment slots: 1
+damage: 1d6-1
+
+]
+loot: []
+, '1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 14
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Some Creature - it is either trapped down here or has made it it's lair. The creature may be hostile or passive.
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 14
+Great Hall - Identical sequoia- sized pillars stand in perfect rows, holding up the ceiling of this titanic room. Rumbling can be heard above as the pillars creak with the impossible weight they bear. Noise travels quickly here, sometimes alerting unwanted attention...
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['The Wyrm', 'lone survivor']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 14
+Bathhouse - Deep circularbasins are carved into the floorof this room. Each is filled withwater and sediment includingchunks of stone from thefractured ceiling.
+The filthy water replenisheshere from the countless cracksand fractures after a day. It isdrinkable but only after beingdistilled or sanitized. There is a1-in-20 chance of treasurehidden in the detritus at thebottom of one of the basins.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 14
+Archive - Row after row of towering structures are arranged like the shelves of some massive library. They stand dozens of feet tall and stretch thrice that in length. The structures here appear imposing, but time has taken their toll and some are close to collapse.
+Carved - The sides of these shelves are patterned with geometric forms like some alien mural, they are quite easy to climb.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+################################################
+Floor depth: 15
+
+################################################
+###
+PAT
+CDK
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 15
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 15
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 15
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 15
+Pyramid - Gargantuan and imposing, a massive multi- faceted pyramid sits like some terrible beast. Closer inspection reveals it is crafted from a singular piece of stone...
+Glimmering Capstone - Made of lodestone and engraved with fractal veins of gold. Weighing 500 lbs. it is worth 1d6x200 (664) coins if safely transported.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['lone survivor']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 15
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 15
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+Observers - There are 2d6 mortals diligently watching the “stage.” They are enthralled by “the show” and demand silence, growing violent if the Travelers cause a scene.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 15
+Dump - Channels from the walls and ceiling rhythmically dump mounds of detritus into the recessed floor of this room. Broken architecture, soiled water, graveled sand, it all ends in the floor of this room.
+Many things find their way into this great dump, some are even useful.
+For every hour spent searching the mounds of garbage in this room there is a 3-in-6 chance of finding something useful:
+1-3: nothing
+4: A random tool
+5: 1d6x10 lodestone.
+6: 1d3 unspoiled rations.
+However, there is also a 3-in-6
+chance of suffering harm:
+1-3: nothing
+4: Cuts and bruises, 1d6 damage.
+5: A serious injury, 1 exhaustion.
+6: A hidden enemy, roll encounter.
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 15
+Temple - A gateway leads into a lengthy room with a vaulted ceiling and terminates into a sanctum. The sanctum ceiling spirals up into the dark, defying your eyes.
+This place has an odd effect on the minds of pious travelers. Drawn like moths to the flame to worship this space.
+Altar - An enormous geometric sculpture of strange and wicked shape sits as some grim centerpiece. It is engraved with veins of precious metal worth 150coins if stripped.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['1d3 Medusa']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 15
+Kennel - Small claustrophobic rooms are arranged like cabinets along a massive shear wall. Skittering can be heard far above.The kennels tend to attract life, both mortal and not.
+Climbing up to the rooms reveals remains of refuges and hideouts, along with more dangerous life...
+You Find...
+a random tool: shovel
+An all time favourite of peasants, builders, gravediggers, graverobbers and knights. Used to dig trenches and storm them. Can be used as a decent improvised two handed weapon.
+equipment slots: 1
+attack bonus: 0
+damage: 1d6
+
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Melder
+Fused and broken jade, sticky like scabs. Touching the fresh dead heals you for 1d6 HP a minute as they are absorbed.
+equipment slots: 1
+type: artifact
+
+Encounters:
+['The Wyrm']
+################################################
+Floor depth: 16
+
+################################################
+###
+MCT
+VOA
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 16
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 16
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 16
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 16
+Maze - The walls close tightly here, twisting and turning in uncomfortable directions both vertical and horizontal. The path splits in places, a hellish fractal maze. With no pattern or sensible layout, it is far too easy to get lost in this maze...
+Travelers must roll 3 successful Intelligence checks in a row to make it through this area
+.Failure: 1d6 hours of time have been lost and roll an encounter.
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Command
+A tiara-sized ring of glittering bismuth. All who can hear and understand its wielder will follow their commands without question.
+equipment slots: 1
+type: artifact
+
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 16
+Vault - A short room terminates with an enormous gate of some kind. A wall of rusted iron acts as a featureless and imposing door. A gentle hum can be heard on the other side. There is treasure here, for those forceful or cunning enough to pilfer it. The “door” of rusted iron is as thick as a fist and will be difficult to break into. Those who find a way in will be rewarded with blocks of identical lodestone worth 914coins and 1d3 treasures.
+Annihilation
+A heavy staff of chipped and broken obsidian. When somethin is slain by this staff, it is utterly annihilated, stricken from the memory of the world and mortals. Has a 1 in 36 chance of breaking every strike.This is a two-handed weapon.
+equipment slots: 2
+damage: 1d6
+type: artifact
+
+Incineration
+A single pale flame, utterly colourlessroughly the size of an adults fist. It burns and spreads like any ordinary flame, but can never be extinguished. When all fuel is consumed a flame of the original size remains where the last fuel was consumed.
+equipment slots: 1
+type: artifact
+
+Transmutation
+A simple sphere of polished lead. Anythin this orb directly touches turns into lead. Living things take 1d6 damage a successful save halfs damage.
+equipment slots: 2
+type: artifact
+
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 16
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Lying Coin
+An octagonal lead disk, painfully cold to the touch. The coin hums when lies are told.
+equipment slots: 0
+type: artifact
+
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 16
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Hidden Treasure - Buried among the pile of dust and dried bone at the bottom is something of value. (roll on the treasure table pg. 21)
+Dreamless
+A bead that seems to swirl with colour. You nolonger need to sleep, your appearance grows haggard with time.
+equipment slots: 1
+type: artifact
+
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['lone survivor']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 16
+Temple - A gateway leads into a lengthy room with a vaulted ceiling and terminates into a sanctum. The sanctum ceiling spirals up into the dark, defying your eyes.
+This place has an odd effect on the minds of pious travelers. Drawn like moths to the flame to worship this space.
+Worshipers - 1d20 penitent and troubled souls gather here in the dark. They feverishly worship with desperate whispers. Attack if disturbed. 
+Feature:
+Cave-in - A collapse has rendered this room impassable. There is no way forward, remove additional entryways and exits.
+Encounters:
+[Feverish Faithful
+Feverish Faithful - Penitent worshippers pray to whatever entity for forgivness and guidance. They are clearly not in their right minds and will attack when disturbed.
+There is 8 of them.
+depth: 0
+characters: [Faithful
+A troubled soul praying to some otherworldly entity for salvation.
+level: 2
+hit dice: 2d8
+hit points: 9
+damage: 0
+attack: 13
+natural armour: none
+defense: 13
+strength: 0
+dexterity: 0
+constitution: 0
+intelligence: 0
+wisdom: 0
+charisma: 0
+equipment slots: 6
+ability: none
+armour: gambeson
+padded armour made of linen or leather
+equipment slots: 2
+armour: 2d6|6+
+
+weapon: greatsword
+An elegant bladed weapon
+equipment slots: 3
+damage: 1d6+1
+
+offhand: buckler
+a buckler is a small defensive weapon, it offers no protection against ranged attacks
+equipment slots: 1
+defense bonus: 2
+
+]
+loot: []
+, 'The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 16
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+################################################
+Floor depth: 17
+
+################################################
+###
+CPC
+AOV
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 17
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 17
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 17
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 17
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+Treasure - Hidden among the corners and recesses is something of value. 
+Command
+A tiara-sized ring of glittering bismuth. All who can hear and understand its wielder will follow their commands without question.
+equipment slots: 1
+type: artifact
+
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 17
+Archive - Row after row of towering structures are arranged like the shelves of some massive library. They stand dozens of feet tall and stretch thrice that in length. The structures here appear imposing, but time has taken their toll and some are close to collapse.
+Carved - The sides of these shelves are patterned with geometric forms like some alien mural, they are quite easy to climb.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 17
+Plaza - A wide expanse of tiled floor stretches out into the dark. If there is a ceiling above it is too high to be seen. Occasionally populated with strange “sculptures” these open spaces also tend to be ambush spots for more conniving individuals.
+Statue Garden - Odd geometric stones crowd this area, making direct travel difficult and unnerving.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 17
+Ossuary - A long and winding tunnel with smooth cracked walls is peppered with small hand-sized holes. The holes burrow deep and seem to go on forever. The holes here are not empty. Filled with curious trinkets as well as curious dangers. Roll 1d6 anytime a Traveler searches a hole.
+You Find...
+Oil - Flammable, burns 1 hour.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 17
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 17
+Vault - A short room terminates with an enormous gate of some kind. A wall of rusted iron acts as a featureless and imposing door. A gentle hum can be heard on the other side. There is treasure here, for those forceful or cunning enough to pilfer it. The “door” of rusted iron is as thick as a fist and will be difficult to break into. Those who find a way in will be rewarded with blocks of identical lodestone worth 289coins and 1d3 treasures.
+Forgotten
+A tablet of soapstone and a stylus of iron. Thoughts and ideas carved into this tablet are forgotten, the effect spreading from mortal to mortal like wildfire.
+equipment slots: 1
+type: artifact
+
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+################################################
+Floor depth: 18
+
+################################################
+###
+OOC
+PCG
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 18
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 18
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 18
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 18
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Hidden Treasure - Buried among the pile of dust and dried bone at the bottom is something of value. (roll on the treasure table pg. 21)
+Incineration
+A single pale flame, utterly colourlessroughly the size of an adults fist. It burns and spreads like any ordinary flame, but can never be extinguished. When all fuel is consumed a flame of the original size remains where the last fuel was consumed.
+equipment slots: 1
+type: artifact
+
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 18
+Pit - The floor gives way, in its place lies a cavernous pit that drops into the dizzying dark. There is no bottom in sight. A vertical descent that leads deeper into the ruins.
+Tiered - Series of stair-like tiers descend into to dark. Descent and ascent is easy. Depth +1.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 18
+Oubliette - The floor of this room is a steep and sleek funnel that leads to a single hole just large enough for a mortal to slip into. Walking across this room is difficult, save versus Breath or slide into the hole and drop 1d6x10 feet. The pit is never empty...
+Someone Trapped - They cry out weakly to be rescued from the pit. Close to death, they will perish without immediate assistance. They will be a helpful companion if saved.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['lone survivor']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 18
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 18
+Cellar - Angled channels lead into tight, claustrophobic rooms. They are cold, like a graveyard in winter.
+The cold is unbearable after several hours, yet the rooms have an odd quirk: Nothing rots, decays or ages so long as they stay in one of the rooms.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 18
+Great Hall - Identical sequoia- sized pillars stand in perfect rows, holding up the ceiling of this titanic room. Rumbling can be heard above as the pillars creak with the impossible weight they bear. Noise travels quickly here, sometimes alerting unwanted attention...
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm', 'The Wyrm']
+################################################
+Floor depth: 19
+
+################################################
+PTG
+###
+AAT
+
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 2 depth: 19
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 2 depth: 19
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 2 depth: 19
+hallway
+Feature:
+
+Encounters:
+[]
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 1 depth: 19
+Planetarium - A titanic domed room, large enough to house a castle, echos with every step. Strange coiling cosmic designs cover the ceiling, the detail impossibly intricate. This room has odd effects on the psyche of mortals. Those who dare to meditate or to dream within this room are visited by its power...
+Roll 1d20+WIS, INT, or CHA
+1: You dream of the Crawl, their pain, their anguish, their hate.
+  Lose a Memory (pg. 22).
+2-10: Senseless visions, dream-mazes of impossible geometry.
+  Gain a level of exhaustion
+11-15: A vision of things yet to pass.
+  You may make one roll at advantage the next day.
+16-18: The fractal geometry spreads before you.
+  You know what the next 1d6 rooms will contain.
+19-20: You dream of home, of the life before the Vast.
+  You regain one memory (pg. 22).
+21+: You dream of the Schema.
+  The Wyrm will arrive shortly, defeat it and you will be rewarded with a great treasure.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 1 Y: 3 depth: 19
+Atrium - A massive open space lies below an imposing ceiling of crumbling structural supports. Ahead is a grand entryway further into the ruins, as if this is some transitional area. Travelers gather at this precipice. Perhaps a subconscious will of the ruins or some long forgotten tradition. A makeshift camp with 1d6 Travelers, willing to trade goods and information.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 1 depth: 19
+Temple - A gateway leads into a lengthy room with a vaulted ceiling and terminates into a sanctum. The sanctum ceiling spirals up into the dark, defying your eyes.
+This place has an odd effect on the minds of pious travelers. Drawn like moths to the flame to worship this space.
+Altar - An enormous geometric sculpture of strange and wicked shape sits as some grim centerpiece. It is engraved with veins of precious metal worth 50coins if stripped.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 2 Y: 3 depth: 19
+Amphitheater - A massive semicircular room, the floor is nothing but rows of concentric steps that lead to a singular small stage against a flat decaying wall.
+The Thespian - A tall jet-blackfigure stands silently in the center of the “stage.” They speak only when spoken to and answers with elegant, theatrical flourishes of their body.
+They know more about the Vast than anyone else, and are more dangerous than the oldest of the Crawl...
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 1 depth: 19
+Graveyard - Countless identical plinths sit arranged in dozens of ordered rows. Asolemn atmosphere permeatesthis area.Those with more macabre sensibilities see the grave-like similarities right away. Some go so far as to turn the place into a makeshift cemetery.
+Charnel House - Skulls and remains have been carefully stacked on the plinths, names and epitaphs scratched into them. Some are ancient... 
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
+++++++++++++++++++++++++++++
+Position: X: 3 Y: 3 depth: 19
+Tower - A vertical chimney travels up to frightful heights, the ceiling of which is beyond sight. Echoes seem to linger in the dark space far above. This room leads to the surface if it appears at a Depth greater than 1, otherwise it leads to nowhere except a ceiling hundreds of feet up.There is a 2-in-6 chance the tower has something akin to stairs, otherwise it must be scaled with some difficulty.
+The once smooth surface of the tower has been eroded by time. Enabeling explorers to climb it with some difficulty.
+Feature:
+A familiar Room - This place is calm and strangely familiar. Do you know what it is?
+Encounters:
+['The Wyrm']
